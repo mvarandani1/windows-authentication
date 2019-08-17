@@ -1,0 +1,5 @@
+username: example
+password: password
+
+This thing works properly. If we login once it doesn't ask for the second time.
+ Make sure to enter username and password correct as I have not handled the condition.
